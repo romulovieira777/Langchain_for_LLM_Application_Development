@@ -1,6 +1,6 @@
 # LangChain for LLM Application Development 🤖🎲⚙️🤯👨🏻‍💻
 ## Course LangChain for LLM Application Development
-### #### 💻 Topics covered during the course were: 🚀
+### 💻 Topics covered during the course were: 🚀
 
 - Introduction
 - [Models, Prompts and Output Parsers]()
